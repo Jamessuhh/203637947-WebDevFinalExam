@@ -1,0 +1,22 @@
+header{
+    font-size: larger;
+}
+
+nav{
+    background-color: gainsboro;
+    font-size: medium;
+}
+
+ul{
+    display: hide;
+}
+
+.main{
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
